@@ -1,6 +1,7 @@
 # spring-boot-postgres-demo
 #
 this is based on this tutorial: https://hackernoon.com/using-postgres-effectively-in-spring-boot-applications
+#
 Commands to run on a terminal to setup postgres DB:
 #
 psql -U postgres
